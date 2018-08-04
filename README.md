@@ -32,6 +32,5 @@ and thats it. You do not need to be an expert, for the rest this plugin will gui
 
 ## Usage
 
-This is not something ```Out of the Box``` ready for roll, you guys need to put a little bit of effort
-to make it work [ for your own learning ] and I'm sure you can improve this basic structure a way
-```cool``` than this.
+Though this is not something very ```extraordinary``` ready to spin the wheel, you guys need to put a little bit effort
+to make it work [ for your own learning ] and I'm sure you can make this ```awesome``` by making cool enhancements in it.
