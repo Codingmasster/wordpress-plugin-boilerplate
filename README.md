@@ -1,4 +1,4 @@
-## Wordpress Sample
+## Wordpress Plugin Boilerplate
 Wordpress Sample is a guide for those who want to build a Wordpress Plugin really quick
 using OOP.
 
